@@ -1,4 +1,4 @@
 eventstorejvmclient
 ===================
 
-Event Store Akka/JVM Client
+This is the source base for the Event Store Akka/JVM Client
